@@ -7,4 +7,4 @@ This repository was created as a means to help me to understand the structure an
 <p></p>
 <p></p>
 <p></p>
-<a href="https://www.linkedin.com/in/jessica-l-horton-b3036563/">Learn more about me by visiting my LinkedIn profile</a>
+
